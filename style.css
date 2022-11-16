@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0
+}
+
+h1 {
+font-family: 'Underdog', cursive;
+text-align: center;
+font-size: 7vh;
+}
+
+h2 {
+font-family: 'Underdog', cursive;
+}
+
+.header {
+width: 100vw;
+heigth: 20vh;
+background: rgb(130,2,71);
+background: linear-gradient(180deg, rgba(130,2,71,1) 0%, rgba(228,1,1,1) 35%, rgba(255,85,0,0.0844712885154062) 100%);
+padding-top: 7vh;
+padding-bottom: 7vh;
+}
+
+.content {
+display: block;
+margin-top: 10vh;
+margin-left: 15vw;
+margin-right: 15vw;
+width: 70vw
+}
+
+p {
+font-family: 'Underdog', cursive;
+font-size: 2.5vh;
+}
+
+li {
+font-family: 'Underdog', cursive;
+font-size: 2.5vh;
+margin-left: 3vw;
+}
